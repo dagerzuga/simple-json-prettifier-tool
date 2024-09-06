@@ -1,2 +1,4 @@
-# simple-json-prettifier-tool
-A simple, browser-based JSON Prettifier with syntax highlighting. Format and beautify your JSON data instantly with this lightweight, easy-to-use tool.
+# simple json prettifier tool
+A lightweight, browser-based tool for formatting and beautifying JSON data with syntax highlighting.
+
+## Live: https://simple-json-prettifier-tool.netlify.app/
